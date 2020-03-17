@@ -1,0 +1,25 @@
+{
+  "name": "video-chat-application_using-node.js-socket.io-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciamac-da/Video-Chat-Application_Using-Node.Js-Socket.io-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciamac-da/Video-Chat-Application_Using-Node.Js-Socket.io-TypeScript/issues"
+  },
+  "homepage": "https://github.com/ciamac-da/Video-Chat-Application_Using-Node.Js-Socket.io-TypeScript#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pusher": "^3.0.0"
+  }
+}
