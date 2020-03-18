@@ -1,5 +1,3 @@
-
-var express = require('express');
 import * as express from 'express';
 import { Application } from "express";
 import * as socketIO from 'socket.io';
